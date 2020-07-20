@@ -1,3 +1,5 @@
+![Cover pic](https://github.com/ZicklePop/melaniekat-com/blob/main/public/static/facebook-open-graph.png?raw=true)
+
 ### 🌸 Melanie Kat 🌸
 
 Hi, my name is Melanie and my pronouns are she/her. I like to code in JavaScript with React and Next.js. I have a few personal projects here on GitHub that I've made for fun in my spare time.
