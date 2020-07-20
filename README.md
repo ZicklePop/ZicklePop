@@ -1,4 +1,4 @@
-### Melanie Kat 😻
+### 🌸 Melanie Kat 🌸
 
 Hi, my name is Melanie and my pronouns are she/her. I like to code primarily in JavaScript with React and Next.js. I have quite a few personal projects here on GitHub that I've made for fun in my spare time.
 
