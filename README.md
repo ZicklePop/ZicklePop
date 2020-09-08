@@ -1,4 +1,4 @@
-![Cover pic](https://github.com/ZicklePop/melaniekat-com/blob/main/public/static/facebook-open-graph.png?raw=true)
+![header pic](https://github.com/ZicklePop/ZicklePop/blob/main/header.png?raw=true)
 
 ### 🌸 Melanie Kat 🌸
 
