@@ -14,4 +14,4 @@ Hi, my name is Melanie and my pronouns are she/her. I like to code in JavaScript
 - GitHub provides services for concentration camps which puts children in cages [2018](https://github.com/selfagency/microsoft-drop-ice), [2019](https://www.theverge.com/2019/10/9/20906213/github-ice-microsoft-software-email-contract-immigration-nonprofit-donation)
 - GitHub acquires all of NPM except for all 4 black engineers. [2020](https://twitter.com/nomadtechie/status/1277371525700694016)
 - GitHub has fired a Jewish employee for saying there were nazis at the January 6th 2021 nazi terrorist attack in D.C. [2021](https://gizmodo.com/github-fired-a-jewish-employee-for-warning-that-nazis-1846047140)
-- GitHub has been protecting an outspoken antisemitic employee since 2014 [January 15th 2021](https://www.theverge.com/2021/1/15/22232766/github-employees-protest-jewish-employee-firing-warn-nazi),
+- GitHub has been protecting an outspoken antisemitic employee since 2014 [January 15th 2021](https://www.theverge.com/2021/1/15/22232766/github-employees-protest-jewish-employee-firing-warn-nazi), [January 15th, 2021](https://twitter.com/ZoeSchiffer/status/1350159432282357760)
