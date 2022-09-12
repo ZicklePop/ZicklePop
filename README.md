@@ -9,11 +9,11 @@ Hi, my name is Melanie and my pronouns are she/her. I like to code in JavaScript
 
 
 <details>
-<summary>
-
-### GitHub is a toxic company
-
-</summary>
+    <summary>
+        <strong>
+            GitHub is a toxic company
+        </strong>
+    </summary>
 
 - GitHub has a long history of gender discrimination 
     - [Influential developer leaves GitHub alleging gender harassment, March 15th 2014](https://www.theverge.com/2014/3/15/5512462/github-developer-leaves-alleging-gender-harassment)
