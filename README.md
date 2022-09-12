@@ -8,7 +8,12 @@
 Hi, my name is Melanie and my pronouns are she/her. I like to code in JavaScript with React, Next.js, and Astro. I have a few personal projects here on GitHub that I've made for fun in my spare time.
 
 
-# GitHub is a toxic company
+<details>
+<summary>
+
+### GitHub is a toxic company
+
+</summary>
 
 - GitHub has a long history of gender discrimination 
     - [Influential developer leaves GitHub alleging gender harassment, March 15th 2014](https://www.theverge.com/2014/3/15/5512462/github-developer-leaves-alleging-gender-harassment)
@@ -27,3 +32,5 @@ Hi, my name is Melanie and my pronouns are she/her. I like to code in JavaScript
 - GitHub has been protecting an outspoken antisemitic employee since 2014
     - [GitHub still won’t explain if it fired someone for saying ‘Nazi,’ and employees are pissed, January 15th 2021](https://www.theverge.com/2021/1/15/22232766/github-employees-protest-jewish-employee-firing-warn-nazi)
     - ["The guy on the left still works at GitHub. The guy on the right was fired :/" Zoë Schiffer @ZoeSchiffer, January 15th, 2021](https://web.archive.org/web/20210115191518/https://twitter.com/ZoeSchiffer/status/1350159432282357760)
+
+</details>
