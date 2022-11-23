@@ -4,6 +4,9 @@
 
 - [homepage](https://melaniekat.com)
 - [blog](https://melkat.blog)
+- [cohost](https://cohost.org/melkat)
+- [mastodon](https://nyan.lol/@zicklepop)
+- [tumblr](https://zicklepop.com)
 
 Hi, my name is Melanie and my pronouns are she/her. I like to code in JavaScript with React, Next.js, and Astro. I have a few personal projects here on GitHub that I've made for fun in my spare time.
 
