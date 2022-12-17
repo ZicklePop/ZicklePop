@@ -4,7 +4,6 @@
 
 - [homepage](https://melaniekat.com)
 - [blog](https://melkat.blog)
-- [cohost](https://cohost.org/melkat)
 - [mastodon](https://nyan.lol/@zicklepop)
 - [tumblr](https://zicklepop.com)
 
